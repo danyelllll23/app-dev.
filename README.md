@@ -1,5 +1,5 @@
-# app-dev.
-My first repository.
+# Information about Favorite Series.
+
 **One Piece: A Pirate's Epic Adventure**
 > The story follows Monkey D. Luffy, a rubber-bodied pirate who accidentally ate a Devil Fruit, granting him the power to stretch like rubber. His dream? To find the legendary treasure, One Piece, and become the King of the Pirates! Along the way, he gathers a diverse crew – the Straw Hat Pirates – each with their own unique abilities and dreams.
 - Roronoa Zoro: A master swordsman with incredible skill.
